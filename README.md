@@ -1,1 +1,1 @@
-A react native starter/boiler plate
+Basic social  CRUD app
