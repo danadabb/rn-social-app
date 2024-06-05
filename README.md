@@ -1,1 +1,1 @@
-Basic social  CRUD app
+# rn-social-app
