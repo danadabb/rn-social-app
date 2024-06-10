@@ -1,0 +1,10 @@
+{
+  "name": "api",
+  "packageManager": "yarn@4.2.2",
+  "scripts": {
+    "start": "node server/index.ts"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
